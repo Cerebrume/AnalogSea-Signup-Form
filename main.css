@@ -1,17 +1,17 @@
 body {
-	background: #3F94E7;
-	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
+    background: #3F94E7;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
 }
 
 .logo-img {
-	display: block;
-	margin: 58px auto 0px auto;
-	height: 35px;
+    display: block;
+    margin: 58px auto 0px auto;
+    height: 35px;
 }
 
 .analog-form legend {
-	text-align: center;
+    text-align: center;
     font-weight: 300;
     color: #565656;
     margin: 0 auto 45px;
@@ -21,67 +21,72 @@ body {
 }
 
 .form-wrapper {
-	box-sizing: border-box;
-	width: 400px;
-	padding: 40px;
-	margin: 30px auto;
-	border-radius: 3px;
-	background: #fff;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 400px;
+    padding: 40px;
+    margin: 30px auto;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    background: #fff;
 }
 
 .analog-form label {
-	display: block;
-	margin-bottom: 20px;
-	margin-top: 20px;
+    display: block;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .analog-form input {
-	box-sizing: border-box;
-	width: 320px;
-	padding: 15px;
-	border: 2px #E7E7E7 solid;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 320px;
+    padding: 15px;
+    border: 2px #E7E7E7 solid;
 }
 
 .form-btn {
-	margin: 20px auto 10px auto;
-	height: 55px;
-	width: 320px;
-	padding: 15px;
-	border: 2px;
-	background: #0EBC66; 
-	border-radius: 5px;
-	font-weight: bold;
-	color: #fff;
-	font-size: 20px;
-	cursor: pointer;
+    margin: 20px auto 10px auto;
+    height: 55px;
+    width: 320px;
+    padding: 15px;
+    border: 2px;
+    background: #0EBC66;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
 }
 
 .form-btn:hover {
-	background: #0E9A66;
+    background: #0E9A66;
 }
 
 .analog-form a {
-	text-decoration: none;
+    text-decoration: none;
     color: #999;
     border-bottom: 1px solid #bbb;
     font-size: 14px;
 }
 
 p {
-	text-align: center;
-	margin-top: 0;
-	margin-bottom: -5px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: -5px;
 }
 
 .log-in {
-	color: #fff;
-	font-weight: 700;
-	margin-bottom: 40px;
-	margin-top: -20px;
-	font-size: 16px;
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 40px;
+    margin-top: -20px;
+    font-size: 16px;
 }
 
 .log-in a {
-	color: #fff;
-	
+    color: #fff;
 }
